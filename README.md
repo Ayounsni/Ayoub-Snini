@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4E03AQGAvIJXlUZ8iw/profile-displayphoto-shrink_400_400/0/1704444338947?e=1726704000&v=beta&t=w8tmm16WL81_gIUDZhBYOaZ7yj-D8_KM5Ib7TckJp9A" alt="Banner" width="200" height="200" style="border-radius: 100%;" />
-</p> 
+</p>
 
 <p align="center">
   I'm passionate about building software that solves real-world problems. My interests range from backend development to front-end design, and I love working with the latest technologies.
@@ -96,6 +96,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
   <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.xpand-it.com/wp-content/uploads/2020/06/Keycloak-logo.png" alt="keycloak" width="40" height="40"/>
+    <img src="https://www.xpand-it.com/wp-content/uploads/2020/06/Keycloak-logo.png" alt="keycloak" width="80" height="50"/>
   </a>
 </p>
