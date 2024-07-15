@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer | Tech Enthusiast | Constantly Exploring and Creating Innovative Solutions</h3>
 
 <p align="center">
-  <img src="https://github.com/Mr-AXEL01/Mr-AXEL01/raw/main/banner.png" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/D4E03AQGAvIJXlUZ8iw/profile-displayphoto-shrink_400_400/0/1704444338947?e=1726704000&v=beta&t=w8tmm16WL81_gIUDZhBYOaZ7yj-D8_KM5Ib7TckJp9A" alt="Banner" />
 </p>
 
 <p align="center">
