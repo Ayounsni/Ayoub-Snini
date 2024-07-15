@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABD_ELHAQ AZROUR</h1>
 <h3 align="center">A Software Developer | Tech Enthusiast | Constantly Exploring and Creating Innovative Solutions</h3>
 
-<p align="center">
-  <svg width="200" height="200">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="100" cy="100" r="100" />
-      </clipPath>
-    </defs>
-    <image 
-      xlink:href="https://media.licdn.com/dms/image/D4E03AQGAvIJXlUZ8iw/profile-displayphoto-shrink_400_400/0/1704444338947?e=1726704000&v=beta&t=w8tmm16WL81_gIUDZhBYOaZ7yj-D8_KM5Ib7TckJp9A" 
-      width="200" 
-      height="200" 
-      clip-path="url(#circleView)" 
-    />
-  </svg>
-</p>
 
 <p align="center">
   I'm passionate about building software that solves real-world problems. My interests range from backend development to front-end design, and I love working with the latest technologies.
