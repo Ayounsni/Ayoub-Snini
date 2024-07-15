@@ -2,7 +2,19 @@
 <h3 align="center">A Software Developer | Tech Enthusiast | Constantly Exploring and Creating Innovative Solutions</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQGAvIJXlUZ8iw/profile-displayphoto-shrink_400_400/0/1704444338947?e=1726704000&v=beta&t=w8tmm16WL81_gIUDZhBYOaZ7yj-D8_KM5Ib7TckJp9A" alt="Banner" width="200" height="200" style="border-radius: 100%;" />
+  <svg width="200" height="200">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="100" cy="100" r="100" />
+      </clipPath>
+    </defs>
+    <image 
+      xlink:href="https://media.licdn.com/dms/image/D4E03AQGAvIJXlUZ8iw/profile-displayphoto-shrink_400_400/0/1704444338947?e=1726704000&v=beta&t=w8tmm16WL81_gIUDZhBYOaZ7yj-D8_KM5Ib7TckJp9A" 
+      width="200" 
+      height="200" 
+      clip-path="url(#circleView)" 
+    />
+  </svg>
 </p>
 
 <p align="center">
