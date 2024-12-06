@@ -3,7 +3,7 @@
 <p align="center"> Je suis passionné 
 par la création de logiciels qui répondent à des problématiques réelles. Mes intérêts vont du développement backend à la conception frontend, et j'adore travailler avec les dernières technologies.
 </p>
-- 📫 For professional discussions, contact me at **ayoubsnini@gmail.com**
+- 📫 For professional discussions, contact me at **ayoubsnini@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
