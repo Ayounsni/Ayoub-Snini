@@ -82,7 +82,4 @@ par la création de logiciels qui répondent à des problématiques réelles. Me
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="80" height="50"/>
 </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/src/docs/spring-framework.png" alt="Spring" width="80" height="50"/>
-</a>
 </p>
