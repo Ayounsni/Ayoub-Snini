@@ -6,7 +6,7 @@
   I'm passionate about building software that solves real-world problems. My interests range from backend development to front-end design, and I love working with the latest technologies.
 </p>
 
-- 📫 For professional discussions, contact me at **abdelhakazrour3@gmail.com**
+- 📫 For professional discussions, contact me at **ddddd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
