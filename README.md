@@ -83,6 +83,8 @@ par la création de logiciels qui répondent à des problématiques réelles. Me
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="80" height="50"/>
 </a>
 </p>
+<br>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahtani&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=Sahtani&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
